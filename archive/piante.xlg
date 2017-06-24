@@ -1,0 +1,723 @@
+
+
+Caricamento C:\Users\admin\Desktop\POLIMI\STRUMENTI E METODI\FASE 2\QM-D_3_CAMERA\archive\piante.dwg nell'editor dei disegni.
+Risoluzione degli xrif.
+
+
+Risolve Xrif "asia": C:\Users\admin\Desktop\QM-D_3\contrib\asia.dwg
+
+	Aggiornare tabella simboli blocco:
+	 Aggiunta del simbolo: "asia|A$C61314602"
+	 Aggiunta del simbolo: "asia|_Open90"
+	 Aggiunta del simbolo: "asia|_Oblique"
+	 Aggiunta del simbolo: "asia|A$C52F513AA"
+	 Aggiunta del simbolo: "asia|\U+65CF\U+51E0\U+4F55\U+56FE\U+5F62\U+7EC4\U+5408_2633-Ref_ Level"
+	 Aggiunta del simbolo: "asia|$0$_Oblique"
+	 Aggiunta del simbolo: "asia|$1$_Oblique"
+	 Aggiunta del simbolo: "asia|$2$_Oblique"
+	 Aggiunta del simbolo: "asia|$3$_Oblique"
+	 Aggiunta del simbolo: "asia|$4$_Oblique"
+	 Aggiunta del simbolo: "asia|$5$_Oblique"
+	 Aggiunta del simbolo: "asia|$6$_Oblique"
+	 Aggiunta del simbolo: "asia|$7$_Oblique"
+	 Aggiunta del simbolo: "asia|$8$_Oblique"
+	 Aggiunta del simbolo: "*U|REF"
+	Aggiornamento di Blocco completato.
+
+	Aggiornare tabella simboli layer:
+	 È stata ignorata la definizione duplicata dell'immissione del layer DEFPOINTS.
+	 Aggiunta del simbolo: "asia|$8$A-ANNO-DIMS"
+	 Aggiunta del simbolo: "asia|$1$quote"
+	Aggiornamento di Layer completato.
+
+	Aggiornare dizionario stato layer:
+	Aggiornamento di Stato layer completato.
+
+	Aggiornare tabella simboli tipo di linea:
+	 Aggiunta del simbolo: "asia|ACAD_ISO02W100"
+	Aggiornamento di Tipo di linea completato.
+
+	Aggiornare tabella simboli stile di testo:
+	 Aggiunta del simbolo: "asia|Standard"
+	 Aggiunta del simbolo: "asia|Annotativa"
+	 Aggiunta del simbolo: "asia|E-ROMANS"
+	 Aggiunta del simbolo: "asia|$0$E-ROMANS"
+	 Aggiunta del simbolo: "asia|$1$E-ROMANS"
+	 Aggiunta del simbolo: "asia|$2$E-ROMANS"
+	 Aggiunta del simbolo: "asia|$3$E-ROMANS"
+	 Aggiunta del simbolo: "asia|$4$E-ROMANS"
+	 Aggiunta del simbolo: "asia|$5$E-ROMANS"
+	 Aggiunta del simbolo: "asia|$6$E-ROMANS"
+	 Aggiunta del simbolo: "asia|$7$E-ROMANS"
+	 Aggiunta del simbolo: "asia|$8$E-ROMANS"
+	Aggiornamento di Stile di testo completato.
+
+	Aggiornare tabella simboli applicazione registrata:
+	 È stata ignorata l'immissione "ACAD_PSEXT" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AcadAnnoPO" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AcadAnnotative" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "ACAD_DSTYLE_DIMJAG" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "ACAD_DSTYLE_DIMTALN" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "ACAD_MLEADERVER" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "ACAD_NAV_VCDISPLAY" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "ACAD_DSTYLE_DIMBREAK" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AcAecLayerStandard" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AcCmTransparency" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "ACAD_DSTYLE_DIMTEXT_FILL" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "ACAD_EXEMPT_FROM_CAD_STANDARDS" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AcLayerTools" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AcadStringInfo" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "REVIT" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AEC_XDATA_BOUND_SPACE" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AcDbBlockRepETag" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AcDbDynamicBlockGUID" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "ACAUTHENVIRON" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AcDbDynamicBlockTrueName" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "GradientColor1ACI" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "GradientColor2ACI" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AcadAnnoAV" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "ACAD_SPLINE_DATA" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "ACAD_SPLINE_DATA2" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "RAK" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "ACAD_DSTYLE_DIMJOGGED_JOGANGLE_SYMBOL" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AcDbBlockRepBTag" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AcDbDynamicBlockTrueName2" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AcadAnnoMonitorAlertIconDisabled" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AcadAnnotativeDecomposition" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AcadAnnotativeMTextDecomposition" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "ADE" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AcadBPTGraphNodeId" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "PE_URL" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "ACAD_DSTYLE_DIM_LINETYPE" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AcDbAttr" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "CONTENTBLOCKICON" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "CONTENTBLOCKDESCRIPTION" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "MCAD_NO_VIS" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "ACAD_TEMP_GRAPHIC" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AD_DRAW" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "ACATTRIBSERVICES" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "ASURF_PCURVE_APPNAME" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "GENIUS_GENDIM_13" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "GENIUS_GENDTOL_13" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "GENIUS_GE3DTOL_13" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "DESIGNERASSEMBLIES" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "ACADM_DIM_EDIT" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "GENIUS_GENSCREG_15" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "GENIUS_GENODEF_13" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "GENIUS_GENOBJ-N-SDF_13" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "GENIUS_GENOENT_13" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "GENIUS_GENOREF_13" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "GENIUS_GENOLIS_13" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AVE_RENDER" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AVE_ENTITY_MATERIAL" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AVE_FINISH" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AVE_MATERIAL" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AVE_GLOBAL" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "DCO15" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "CONTENTTABDATA" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "CONTENTCURRENTTAB" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AME_SOL" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AECGUIBASE" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "ACAD_DSTYLE_DIMRADIAL_EXTENSION" duplicata di applicazione registrata.
+	 Aggiunta del simbolo: "AcDbAppSyncWithXref_AssocManager"
+	 Aggiunta del simbolo: "ACAD_DIMASSOC_CALC_DIMLFAC"
+	 Aggiunta del simbolo: "ACAD_DIMASSOC_DIMLFAC"
+	 Aggiunta del simbolo: "ACAD_DIMASSOC_OVERRIDDEN_DIMLFAC"
+	Aggiornamento di Applicazione registrata completato.
+
+	Aggiornare tabella simboli stile di quota:
+	 Aggiunta del simbolo: "asia|Standard"
+	 Aggiunta del simbolo: "asia|Annotativa"
+	 Aggiunta del simbolo: "asia|ISO-25"
+	 Aggiunta del simbolo: "asia|E-0100_ARW_18"
+	 Aggiunta del simbolo: "asia|E-0050_TICK_12"
+	 Aggiunta del simbolo: "asia|E-0100_TICK_12"
+	 Aggiunta del simbolo: "asia|Sima"
+	 Aggiunta del simbolo: "asia|E-0001_ARW_18"
+	Aggiornamento di Stile di quota completato.
+
+	Aggiornare dizionario nomeStileStampa:
+	Aggiornamento di NomeStileStampa completato.
+
+	Aggiornare dizionario materiale:
+	Aggiornamento di Materiale completato.
+
+	Aggiornare dizionario scalelist:
+	Aggiornamento di ScaleList completato.
+"asia" caricato/i.
+Possibili modifiche al file di riferimento "asia" dall'ultimo salvataggio del disegno host.
+
+Risolve Xrif "gaia": C:\Users\admin\Desktop\QM-D_3\contrib\gaia.dwg
+
+	Aggiornare tabella simboli blocco:
+	 Aggiunta del simbolo: "gaia|A$C28D42AF1"
+	 Aggiunta del simbolo: "gaia|$0$_Oblique"
+	 Aggiunta del simbolo: "gaia|A$C19714851"
+	 Aggiunta del simbolo: "gaia|$1$_Oblique"
+	 Aggiunta del simbolo: "gaia|$2$_Oblique"
+	 Aggiunta del simbolo: "gaia|$3$_Oblique"
+	 Aggiunta del simbolo: "gaia|$4$_Oblique"
+	 Aggiunta del simbolo: "gaia|$6$_Oblique"
+	 Aggiunta del simbolo: "gaia|$7$_Oblique"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	 Aggiunta del simbolo: "*D|REF"
+	Aggiornamento di Blocco completato.
+
+	Aggiornare tabella simboli layer:
+	 È stata ignorata la definizione duplicata dell'immissione del layer DEFPOINTS.
+	 Aggiunta del simbolo: "gaia|$3$A-ANNO-DIMS"
+	 Aggiunta del simbolo: "gaia|$0$quote"
+	 Aggiunta del simbolo: "gaia|$4$A-ANNO-DIMS"
+	 Aggiunta del simbolo: "gaia|$1$quote"
+	 Aggiunta del simbolo: "gaia|$5$A-ANNO-DIMS"
+	 Aggiunta del simbolo: "gaia|$2$quote"
+	 Aggiunta del simbolo: "gaia|$6$A-ANNO-DIMS"
+	 Aggiunta del simbolo: "gaia|$3$quote"
+	Aggiornamento di Layer completato.
+
+	Aggiornare dizionario stato layer:
+	Aggiornamento di Stato layer completato.
+
+	Aggiornare tabella simboli tipo di linea:
+	Aggiornamento di Tipo di linea completato.
+
+	Aggiornare tabella simboli stile di testo:
+	 Aggiunta del simbolo: "gaia|Standard"
+	 Aggiunta del simbolo: "gaia|Annotativa"
+	 Aggiunta del simbolo: "gaia|APLUS"
+	 Aggiunta del simbolo: "gaia|$0$E-ROMANS"
+	 Aggiunta del simbolo: "gaia|$1$E-ROMANS"
+	 Aggiunta del simbolo: "gaia|$2$E-ROMANS"
+	 Aggiunta del simbolo: "gaia|$3$E-ROMANS"
+	 Aggiunta del simbolo: "gaia|$4$E-ROMANS"
+	 Aggiunta del simbolo: "gaia|$5$E-ROMANS"
+	 Aggiunta del simbolo: "gaia|$0$ARIAL"
+	 Aggiunta del simbolo: "gaia|$6$E-ROMANS"
+	 Aggiunta del simbolo: "gaia|$1$ARIAL"
+	Aggiornamento di Stile di testo completato.
+
+	Aggiornare tabella simboli applicazione registrata:
+	 È stata ignorata l'immissione "ACAD_PSEXT" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AcadAnnoPO" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AcadAnnotative" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "ACAD_DSTYLE_DIMJAG" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "ACAD_DSTYLE_DIMTALN" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "ACAD_MLEADERVER" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "ACAD_NAV_VCDISPLAY" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "ACAD_DSTYLE_DIMBREAK" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AcAecLayerStandard" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AcCmTransparency" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "ACAD_DSTYLE_DIMTEXT_FILL" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "ACAD_EXEMPT_FROM_CAD_STANDARDS" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AcLayerTools" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AcadStringInfo" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "REVIT" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AEC_XDATA_BOUND_SPACE" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AcDbBlockRepETag" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AcDbDynamicBlockGUID" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "ACAUTHENVIRON" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AcDbDynamicBlockTrueName" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "GradientColor1ACI" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "GradientColor2ACI" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AcadAnnoAV" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "ACAD_SPLINE_DATA" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "ACAD_SPLINE_DATA2" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "RAK" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "ACAD_DSTYLE_DIMJOGGED_JOGANGLE_SYMBOL" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AcDbBlockRepBTag" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AcDbDynamicBlockTrueName2" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AcadAnnoMonitorAlertIconDisabled" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AcadAnnotativeDecomposition" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AcadAnnotativeMTextDecomposition" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "ADE" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AcadBPTGraphNodeId" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "PE_URL" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "ACAD_DSTYLE_DIM_LINETYPE" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AcDbAttr" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "CONTENTBLOCKICON" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "CONTENTBLOCKDESCRIPTION" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "MCAD_NO_VIS" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "ACAD_TEMP_GRAPHIC" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AD_DRAW" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "ACATTRIBSERVICES" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "ASURF_PCURVE_APPNAME" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "GENIUS_GENDIM_13" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "GENIUS_GENDTOL_13" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "GENIUS_GE3DTOL_13" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "DESIGNERASSEMBLIES" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "ACADM_DIM_EDIT" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "GENIUS_GENSCREG_15" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "GENIUS_GENODEF_13" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "GENIUS_GENOBJ-N-SDF_13" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "GENIUS_GENOENT_13" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "GENIUS_GENOREF_13" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "GENIUS_GENOLIS_13" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AVE_RENDER" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AVE_ENTITY_MATERIAL" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AVE_FINISH" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AVE_MATERIAL" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AVE_GLOBAL" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "DCO15" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "CONTENTTABDATA" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "CONTENTCURRENTTAB" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AME_SOL" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AECGUIBASE" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "ACAD_DSTYLE_DIMRADIAL_EXTENSION" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AcDbAppSyncWithXref_AssocManager" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "ACAD_DIMASSOC_CALC_DIMLFAC" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "ACAD_DIMASSOC_DIMLFAC" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "ACAD_DIMASSOC_OVERRIDDEN_DIMLFAC" duplicata di applicazione registrata.
+	Aggiornamento di Applicazione registrata completato.
+
+	Aggiornare tabella simboli stile di quota:
+	 Aggiunta del simbolo: "gaia|Standard"
+	 Aggiunta del simbolo: "gaia|Annotativa"
+	 Aggiunta del simbolo: "gaia|ISO-25"
+	Aggiornamento di Stile di quota completato.
+
+	Aggiornare dizionario nomeStileStampa:
+	Aggiornamento di NomeStileStampa completato.
+
+	Aggiornare dizionario materiale:
+	Aggiornamento di Materiale completato.
+
+	Aggiornare dizionario scalelist:
+	 Aggiunta del simbolo: "*A10"
+	 Aggiunta del simbolo: "*A8"
+	 Aggiunta del simbolo: "*A9"
+	Aggiornamento di ScaleList completato.
+"gaia" caricato/i.
+Possibili modifiche al file di riferimento "gaia" dall'ultimo salvataggio del disegno host.
+
+Risolve Xrif "roberta": C:\Users\admin\Desktop\QM-D_3\contrib\roberta.dwg
+
+	Aggiornare tabella simboli blocco:
+	 Aggiunta del simbolo: "roberta|A$C08E13F05"
+	 Aggiunta del simbolo: "roberta|IKEA-Grankulla_Futon_Single_Bed-top"
+	 Aggiunta del simbolo: "roberta|A$C596A3198"
+	 Aggiunta del simbolo: "roberta|A$C6AD400E8"
+	 Aggiunta del simbolo: "roberta|A$C1F961306"
+	 Aggiunta del simbolo: "roberta|A$C7EA53CC2"
+	 Aggiunta del simbolo: "roberta|\U+65CF\U+51E0\U+4F55\U+56FE\U+5F62\U+7EC4\U+5408_3698-Ref_ Level"
+	 Aggiunta del simbolo: "roberta|A$C64EC0600"
+	 Aggiunta del simbolo: "roberta|A$C5CDB305F"
+	 Aggiunta del simbolo: "roberta|32456"
+	 Aggiunta del simbolo: "roberta|A$C57D527DD"
+	 Aggiunta del simbolo: "roberta|A$C058B6327"
+	 Aggiunta del simbolo: "roberta|A$C0A122CAD"
+	 Aggiunta del simbolo: "roberta|A$C74C5106C"
+	 Aggiunta del simbolo: "roberta|$0$_Oblique"
+	 Aggiunta del simbolo: "roberta|$1$_Oblique"
+	 Aggiunta del simbolo: "roberta|A$C5A65238C"
+	 Aggiunta del simbolo: "roberta|A$C52583B17"
+	 Aggiunta del simbolo: "roberta|A$C1CB8185B"
+	 Aggiunta del simbolo: "roberta|A$C23384007"
+	 Aggiunta del simbolo: "roberta|A$C12F92421"
+	 Aggiunta del simbolo: "roberta|$2$_Oblique"
+	 Aggiunta del simbolo: "roberta|\U+65CF\U+51E0\U+4F55\U+56FE\U+5F62\U+7EC4\U+5408_3698-Front"
+	 Aggiunta del simbolo: "roberta|$3$_Oblique"
+	 Aggiunta del simbolo: "roberta|f4tbgh"
+	 Aggiunta del simbolo: "roberta|A$C5D344876"
+	 Aggiunta del simbolo: "roberta|A$C457A0585"
+	 Aggiunta del simbolo: "roberta|A$C62C575BC"
+	 Aggiunta del simbolo: "roberta|$4$_Oblique"
+	 Aggiunta del simbolo: "roberta|A$C57530D28"
+	 Aggiunta del simbolo: "roberta|A$C5FBF31B7"
+	 Aggiunta del simbolo: "roberta|\U+65CF\U+51E0\U+4F55\U+56FE\U+5F62\U+7EC4\U+5408_3698-Left"
+	 Aggiunta del simbolo: "roberta|$5$_Oblique"
+	 Aggiunta del simbolo: "roberta|$6$_Oblique"
+	 Aggiunta del simbolo: "*U|REF"
+	Aggiornamento di Blocco completato.
+
+	Aggiornare tabella simboli layer:
+	 È stata ignorata la definizione duplicata dell'immissione del layer DEFPOINTS.
+	Aggiornamento di Layer completato.
+
+	Aggiornare dizionario stato layer:
+	Aggiornamento di Stato layer completato.
+
+	Aggiornare tabella simboli tipo di linea:
+	Aggiornamento di Tipo di linea completato.
+
+	Aggiornare tabella simboli stile di testo:
+	 Aggiunta del simbolo: "roberta|Standard"
+	 Aggiunta del simbolo: "roberta|Annotativa"
+	 Aggiunta del simbolo: "roberta|$0$E-ROMANS"
+	 Aggiunta del simbolo: "roberta|$1$E-ROMANS"
+	 Aggiunta del simbolo: "roberta|$2$E-ROMANS"
+	 Aggiunta del simbolo: "roberta|$3$E-ROMANS"
+	 Aggiunta del simbolo: "roberta|$4$E-ROMANS"
+	 Aggiunta del simbolo: "roberta|$5$E-ROMANS"
+	 Aggiunta del simbolo: "roberta|$6$E-ROMANS"
+	Aggiornamento di Stile di testo completato.
+
+	Aggiornare tabella simboli applicazione registrata:
+	 È stata ignorata l'immissione "ACAD_PSEXT" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AcadAnnoPO" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AcadAnnotative" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "ACAD_DSTYLE_DIMJAG" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "ACAD_DSTYLE_DIMTALN" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "ACAD_MLEADERVER" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "ACAD_NAV_VCDISPLAY" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "ACAD_DSTYLE_DIMBREAK" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AcAecLayerStandard" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AcCmTransparency" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "ACAD_DSTYLE_DIMTEXT_FILL" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "ACAD_EXEMPT_FROM_CAD_STANDARDS" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AcLayerTools" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AcDbBlockRepETag" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AcadStringInfo" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "REVIT" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AEC_XDATA_BOUND_SPACE" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AcDbDynamicBlockGUID" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "ACAUTHENVIRON" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AcDbDynamicBlockTrueName" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "GradientColor1ACI" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "GradientColor2ACI" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AcadAnnoAV" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "ACAD_SPLINE_DATA" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "ACAD_SPLINE_DATA2" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "RAK" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "ACAD_DSTYLE_DIMJOGGED_JOGANGLE_SYMBOL" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AcDbBlockRepBTag" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AcDbDynamicBlockTrueName2" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AcadAnnoMonitorAlertIconDisabled" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AcadAnnotativeDecomposition" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AcadAnnotativeMTextDecomposition" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "ADE" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AcadBPTGraphNodeId" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "PE_URL" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "ACAD_DSTYLE_DIM_LINETYPE" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AcDbAttr" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "CONTENTBLOCKICON" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "CONTENTBLOCKDESCRIPTION" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "MCAD_NO_VIS" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "ACAD_TEMP_GRAPHIC" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AD_DRAW" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "ACATTRIBSERVICES" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "ASURF_PCURVE_APPNAME" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "GENIUS_GENDIM_13" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "GENIUS_GENDTOL_13" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "GENIUS_GE3DTOL_13" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "DESIGNERASSEMBLIES" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "ACADM_DIM_EDIT" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "GENIUS_GENSCREG_15" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "GENIUS_GENODEF_13" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "GENIUS_GENOBJ-N-SDF_13" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "GENIUS_GENOENT_13" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "GENIUS_GENOREF_13" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "GENIUS_GENOLIS_13" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AVE_RENDER" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AVE_ENTITY_MATERIAL" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AVE_FINISH" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AVE_MATERIAL" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AVE_GLOBAL" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "DCO15" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "CONTENTTABDATA" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "CONTENTCURRENTTAB" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AME_SOL" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AECGUIBASE" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "ACAD_DSTYLE_DIMRADIAL_EXTENSION" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AcDbAppSyncWithXref_AssocManager" duplicata di applicazione registrata.
+	Aggiornamento di Applicazione registrata completato.
+
+	Aggiornare tabella simboli stile di quota:
+	 Aggiunta del simbolo: "roberta|Standard"
+	 Aggiunta del simbolo: "roberta|Annotativa"
+	 Aggiunta del simbolo: "roberta|ISO-25"
+	Aggiornamento di Stile di quota completato.
+
+	Aggiornare dizionario nomeStileStampa:
+	Aggiornamento di NomeStileStampa completato.
+
+	Aggiornare dizionario materiale:
+	Aggiornamento di Materiale completato.
+
+	Aggiornare dizionario scalelist:
+	Aggiornamento di ScaleList completato.
+"roberta" caricato/i.
+
+Xrif "sezioni e prospetti": .\sezioni e prospetti.dwg
+"sezioni e prospetti" è senza riferimenti ed è stata eliminata.
+
+
+	Simbolo(i) dipendente(i) non risolto(i) nella tabella dei simboli layer:
+
+	 ** Errore: impossibile risolvere layer "sezioni e prospetti|A-ANNO-SYMB"
+	 ** Errore: impossibile risolvere layer "sezioni e prospetti|A-ANNO-DIMS"
+	 ** Errore: impossibile risolvere layer "sezioni e prospetti|A-ANNO-NOTE"
+	 ** Errore: impossibile risolvere layer "sezioni e prospetti|A-ANNO-NPLT"
+	 ** Errore: impossibile risolvere layer "sezioni e prospetti|A-ANNO-TEXT"
+	 ** Errore: impossibile risolvere layer "sezioni e prospetti|A-DOOR-FULL"
+	 ** Errore: impossibile risolvere layer "sezioni e prospetti|A-ELEV-MBE1"
+	 ** Errore: impossibile risolvere layer "sezioni e prospetti|A-ELEV-MBE2"
+	 ** Errore: impossibile risolvere layer "sezioni e prospetti|A-ELEV-PATT"
+	 ** Errore: impossibile risolvere layer "sezioni e prospetti|A-FLOR-FTPT"
+	 ** Errore: impossibile risolvere layer "sezioni e prospetti|A-FLOR-LEVL"
+	 ** Errore: impossibile risolvere layer "sezioni e prospetti|A-FLOR-OVHD"
+	 ** Errore: impossibile risolvere layer "sezioni e prospetti|A-FLOR-PATT"
+	 ** Errore: impossibile risolvere layer "sezioni e prospetti|A-FURN"
+	 ** Errore: impossibile risolvere layer "sezioni e prospetti|A-GLAZ-FULL"
+	 ** Errore: impossibile risolvere layer "sezioni e prospetti|A-SECT-MCUT"
+	 ** Errore: impossibile risolvere layer "sezioni e prospetti|A-SECT-PATT"
+	 ** Errore: impossibile risolvere layer "sezioni e prospetti|A-WALL-FULL"
+	 ** Errore: impossibile risolvere layer "sezioni e prospetti|G-ANNO-LOGO"
+	 ** Errore: impossibile risolvere layer "sezioni e prospetti|G-ANNO-NPLT"
+	 ** Errore: impossibile risolvere layer "sezioni e prospetti|G-ANNO-TEXT"
+	 ** Errore: impossibile risolvere layer "sezioni e prospetti|G-ANNO-TTLB"
+	 ** Errore: impossibile risolvere layer "sezioni e prospetti|A-DETL-MBND"
+	 ** Errore: impossibile risolvere layer "sezioni e prospetti|A-ANNO-SCRN"
+	 ** Errore: impossibile risolvere layer "sezioni e prospetti|Layer1"
+	 ** Errore: impossibile risolvere layer "sezioni e prospetti|IKE120015-t3"
+	 ** Errore: impossibile risolvere layer "sezioni e prospetti|IKE120015-t1"
+	 ** Errore: impossibile risolvere layer "sezioni e prospetti|IKE120015-t2"
+	 ** Errore: impossibile risolvere layer "sezioni e prospetti|ASHADE"
+	 ** Errore: impossibile risolvere layer "sezioni e prospetti|PIANTE"
+	 ** Errore: impossibile risolvere layer "sezioni e prospetti|IKE120036-t1"
+	 ** Errore: impossibile risolvere layer "sezioni e prospetti|quote"
+	 ** Errore: impossibile risolvere layer "sezioni e prospetti|A-FURN-"
+	 ** Errore: impossibile risolvere layer "sezioni e prospetti|sezioni"
+	34 layer(i) dipendenti irrisolti.
+
+	Simbolo(i) dipendente(i) non risolto(i) nella tabella dei simboli tipo di linea:
+
+	 ** Errore: impossibile risolvere tipo di linea "sezioni e prospetti|HIDDEN"
+	1 tipo di linea(i) dipendenti irrisolti.
